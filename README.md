@@ -1,9 +1,11 @@
 NimbRo-OP2 hardware release
 ===========================
 
+This repository contains all hardware aspects of the NimbRo-OP2 robot.
+
 ![NimbRo-OP2](NOP2_Grzegorz.jpg?raw=true "NimbRo-OP2")
 
-A bill of materials (bom) file is included in the root directory.
+A bill of materials (bom) file containing part numbers and quantities is included in the root directory.
 Part files in *.STEP format have been put in the CAD folder. 
 These include:
 * 3D printable parts
@@ -18,7 +20,7 @@ The NimbRo-OP2 robot has been developed at the [Autonomous Intelligent Systems G
 The CAD drawings of this repository are released under the Attribution-NonCommercial-ShareAlike 3.0 (CC BY-NC-SA 3.0) license 
 (see "HARDWARE LICENSE CreativeCommonsLicense CC BY-NC-SA 3.0.txt" for details).
 
-Reference & citation
+Reference & Citation
 --------------------
 
 To reference and/or cite the work contained in this repository, please use the following publication:
