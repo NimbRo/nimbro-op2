@@ -28,6 +28,12 @@ Grzegorz Ficht, Philipp Allgeuer, Hafez Farazi, and Sven Behnke:
 NimbRo-OP2: Grown-up 3D Printed Open Humanoid Platform for Research
 Accepted for IEEE-RAS International Conference on Humanoid Robots (Humanoids), Birmingham, UK, to appear November 2017. 
 
+Video
+-----
+
+To see the NimbRo-OP2 in action, please see the video at:
+http://www.ais.uni-bonn.de/videos/Humanoids_2017/
+
 Links
 -----
 
