@@ -3,7 +3,9 @@ NimbRo-OP2 and NimbRo-OP2X hardware release
 
 This repository contains all hardware aspects of the NimbRo-OP2 and NimbRo-OP2X robots split into separate folders.
 
-![NimbRo-OP2](NOP2_Grzegorz.jpg?raw=true "NimbRo-OP2") ![NimbRo-OP2](NOP2X_Kicking.jpg?raw=true "NimbRo-OP2X")
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![NimbRo-OP2](NOP2_Grzegorz.jpg?raw=true "NimbRo-OP2") | ![NimbRo-OP2](NOP2X_Kicking.jpg?raw=true "NimbRo-OP2X")
 
 A bill of materials (bom) file containing part numbers and quantities is included in each directory related to the robot.
 Part files in *.STEP format have been put in the CAD folder. 
